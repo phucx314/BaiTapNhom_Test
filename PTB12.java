@@ -21,7 +21,7 @@ public class PTB12 {
 	     }
 	 }
 	 public static  void PhuongTrinhBac2() {
-	     System.out.println("\nPHUONG TRINH BBBAC 2");
+	     System.out.println("\nPHUONG TRINH BAC 2");
 	     double a, b, c;
 	     Scanner kb = new Scanner(System.in);
 	     System.out.println("Nhap a: ");
